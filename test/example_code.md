@@ -14,7 +14,7 @@ Python 3.6 or later is required. See <a href="https://wiki.python.org/moin/Begin
 ## 2. Download sample code
 
 ```Python
-$ wget https://raw.githubusercontent.com/milvus-io/pymilvus/v2.0.0rc8/examples/hello_milvus.py
+wget https://raw.githubusercontent.com/milvus-io/pymilvus/v2.0.0rc8/examples/hello_milvus.py
 ```{{execute}}
 
 ## 3. Scan the sample
@@ -129,7 +129,7 @@ print(f"- Top1 hit id: {hits[0].id}, distance: {hits[0].distance}, score: {hits[
 
 ## 4. Run the sample
 ```Python
-$ python3 hello_milvus.py
+python3 hello_milvus.py
 ```{{execute}}
 
 *The returned results and query latency are shown as follows:*
