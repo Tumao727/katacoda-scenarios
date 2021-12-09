@@ -1,20 +1,21 @@
 {
     "noindex": true,
-    "title": "Writing files",
-    "description": "How to write a file in your scenario",
+    "title": "Milvus example code",
+    "description": "Run Milvus using Python",
     "details": {
         "steps": [
             {
-                "title": "How to write a file in your scenario",
-                "text": "README.md"
+                "title": "",
+                "text": "example_code.md"
             }
         ]
     },
     "environment": {
         "hideintro": true,
+        "hidefinish": true,
         "uilayout": "terminal"
     },
     "backend": {
-        "imageid": "ubuntu"
+        "imageid": "python:3.8"
     }
 }
