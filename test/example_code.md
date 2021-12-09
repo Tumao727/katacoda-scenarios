@@ -1,14 +1,3 @@
----
-id: example_code.md
-related_key: pymilvus
-label: Python
-order: 0
-group: example
-summary: Get started with Milvus faster using this Python example code.
----
-
-<div class="tab-wrapper"><a href="example_code.md" class='active '>Python</a><a href="example_code_node.md" class=''>Node.js</a></div>
-
 # Run Milvus using Python
 
 This topic describes how to run Milvus using Python.
